@@ -135,7 +135,7 @@ Pull requests and suggestions are welcome!
 
 ## 📧 Contact
 
-For questions, open an issue or contact [mailto:sahithii5104@gmail.com).
+For questions, open an issue or contact sahithii5104@gmail.com .
 
 ---
 
