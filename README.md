@@ -118,6 +118,9 @@ print(f"Test MAPE: {test_mape:.2%}")
 
 ---
 
+## 📈 Result 
+![Screenshot 2025-04-30 153358](https://github.com/user-attachments/assets/ff8c99e4-5417-48fb-9e44-127966b38cd4)
+
 ## ⚠️ Disclaimer
 
 This project is for educational and research purposes only. Stock price prediction is inherently uncertain and should not be used as financial advice.
